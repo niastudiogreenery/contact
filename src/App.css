@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+}
+
+.line {
+  list-style-type: none; /* Removes bullet points */
+  padding: 10px; /* Removes default padding */
+  margin: 10px; /* Removes default margin */
+  padding-top: 100px;
+}
+
